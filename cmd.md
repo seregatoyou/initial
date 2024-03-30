@@ -17,3 +17,8 @@ Linux, MacOs:
 ```sh
 ls
 ```
+Удаление файла
+Windows:
+```sh
+del <fileName>
+```
